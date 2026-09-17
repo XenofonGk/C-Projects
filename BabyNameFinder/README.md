@@ -1,6 +1,6 @@
 # BabyNameFinder
 
-A console tool that loads 180,000+ US baby name records (1914–2023, split by sex) from CSV and lets you search, rank, and chart them.
+A console tool that loads 176,000+ Ontario baby name records (1914–2023, split by sex) from CSV and lets you search, rank, and chart them.
 
 ## Build and run
 
