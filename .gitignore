@@ -1,0 +1,9 @@
+# compiled output
+/TrainSystem/trainsystem
+/BabyNameFinder/babynames
+/BabyNameFinder/combined.txt
+*.o
+a.out
+
+# macOS
+.DS_Store
